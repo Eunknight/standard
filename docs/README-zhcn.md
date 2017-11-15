@@ -72,9 +72,9 @@ npm install standard --save-dev
 ## 目录
 
 - 上手
-  - [安装](#install)
-  - [使用](#usage)
-  - [如果你聪明的话会这样做](#what-you-might-do-if-youre-clever)
+  - [安装](#安装)
+  - [使用](#使用)
+  - [如果你聪明的话会这样做](#如果你聪明的话会这样做)
 - FAQ
   - [为何要使用 JavaScript Standard 规范？](#why-should-i-use-javascript-standard-style)
   - [谁在用 JavaScript Standard 规范？](#who-uses-javascript-standard-style)
