@@ -71,7 +71,7 @@ npm install standard --save-dev
 
 ## 目录
 
--  上手
+- 上手
   - [安装](#install)
   - [使用](#usage)
   - [如果你聪明的话会这样做](#what-you-might-do-if-youre-clever)
