@@ -76,7 +76,7 @@ npm install standard --save-dev
   - [使用](#使用)
   - [如果你聪明的话会这样做](#如果你聪明的话会这样做)
 - FAQ
-  - [为何要使用 JavaScript Standard 规范？](#why-should-i-use-javascript-standard-style)
+  - [为何要使用 JavaScript Standard 规范？](#为何要使用 JavaScript Standard 规范？)
   - [谁在用 JavaScript Standard 规范？](#who-uses-javascript-standard-style)
   - [有现成的编辑器插件吗？](#are-there-text-editor-plugins)
   - [有专属徽章可以用来放到项目的 README 文件中吗？](#is-there-a-readme-badge)
